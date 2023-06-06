@@ -10,6 +10,5 @@ para fortalecer alguns conceitos aprendidos nessa aula, entre eles:
 - Aplicando fontes customizadas;
 - Espaçamentos.
 
-<p aling= "center">
-  img
+
   
